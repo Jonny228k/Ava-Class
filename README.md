@@ -1,2 +1,0 @@
-# Ava-Class
-Cursos gratuitos
